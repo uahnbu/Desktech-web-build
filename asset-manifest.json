@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/static/js/app.3855c292.chunk.js",
-    "app.js.map": "/static/js/app.3855c292.chunk.js.map",
+    "app.js": "/static/js/app.131f0361.chunk.js",
+    "app.js.map": "/static/js/app.131f0361.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
     "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
     "static/js/2.ff22391e.chunk.js": "/static/js/2.ff22391e.chunk.js",
@@ -29,24 +29,24 @@
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
     "static/js/2.ff22391e.chunk.js.LICENSE.txt": "/static/js/2.ff22391e.chunk.js.LICENSE.txt",
-    "static/media/avatar.png": "/static/media/avatar.b53bf97c.png",
+    "static/media/avatar.png": "/static/media/avatar.584b6eac.png",
     "static/media/bell.png": "/static/media/bell.cf04af27.png",
-    "static/media/cover.png": "/static/media/cover.77e178e3.png",
-    "static/media/deskmind.png": "/static/media/deskmind.5e9de085.png",
-    "static/media/google.png": "/static/media/google.4ff9a5f6.png",
+    "static/media/cover.png": "/static/media/cover.399e751c.png",
+    "static/media/deskmind.png": "/static/media/deskmind.a002b346.png",
+    "static/media/google.png": "/static/media/google.9d9c9256.png",
     "static/media/heart.png": "/static/media/heart.23b5c2c0.png",
-    "static/media/join_class.png": "/static/media/join_class.15c2c43b.png",
-    "static/media/logo.png": "/static/media/logo.279d91cc.png",
-    "static/media/materials.png": "/static/media/materials.b7601b13.png",
-    "static/media/quizzie.png": "/static/media/quizzie.88e45eff.png",
+    "static/media/join_class.png": "/static/media/join_class.011ee228.png",
+    "static/media/logo.png": "/static/media/logo.e9480437.png",
+    "static/media/materials.png": "/static/media/materials.cee3841b.png",
+    "static/media/quizzie.png": "/static/media/quizzie.4be5ac52.png",
     "static/media/rocket.png": "/static/media/rocket.d2f3bf41.png",
-    "static/media/settings.png": "/static/media/settings.882492c7.png",
+    "static/media/settings.png": "/static/media/settings.57e7d1de.png",
     "static/media/star.png": "/static/media/star.69c71386.png",
-    "static/media/tasks.png": "/static/media/tasks.3ebfa4c9.png"
+    "static/media/tasks.png": "/static/media/tasks.4a6dce50.png"
   },
   "entrypoints": [
     "static/js/runtime~app.2e9f1821.js",
     "static/js/2.ff22391e.chunk.js",
-    "static/js/app.3855c292.chunk.js"
+    "static/js/app.131f0361.chunk.js"
   ]
 }
